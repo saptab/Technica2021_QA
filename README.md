@@ -90,4 +90,4 @@ Python, PyTorch, NLTK, Numpy, word2vec, pandas and Sklearn python libraries. Use
     https://sites.google.com/view/qanta/resources?authuser=0 (Filtered Wikipedia JSON)
     https://github.com/Pinafore/cl1-hw/tree/master/project
 ## Example Output
-   [Mock file](https://drive.google.com/file/d/1Z08Edd3UnrTeEVE0oP7n8zL5bkwLiW2a/view?usp=sharing) 
+   [Mock file](https://drive.google.com/file/d/1Z08Edd3UnrTeEVE0oP7n8zL5bkwLiW2a/view?usp=sharing)
