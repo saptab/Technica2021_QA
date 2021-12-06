@@ -16,7 +16,7 @@ Please refer to the [materials](http://users.umiacs.umd.edu/~jbg/teaching/CMSC_4
 
 ## Motivation for Question Answering
 
-1. Importance of Question Answering in Civilization [Video] (https://www.youtube.com/watch?v=ziX5MJ4VKY0) [Slides] (https://docs.google.com/presentation/d/1CbmMbK71925ZztUh5W6dH58377ojHOhKMlTVNbTvVgg/edit#slide=id.p)
+1. Importance of Question Answering in Civilization [Video](https://www.youtube.com/watch?v=ziX5MJ4VKY0) [Slides](https://docs.google.com/presentation/d/1CbmMbK71925ZztUh5W6dH58377ojHOhKMlTVNbTvVgg/edit#slide=id.p)
 
 2. Turing Test & Question Answering [Video](https://www.youtube.com/watch?v=bdQIUv9FutE)
 
